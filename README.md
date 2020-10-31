@@ -3,8 +3,8 @@
 - 🔭 I am currently working at INSAID.
 - 🌱 I’m currently learning almost everything.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun Fact: Simplicity Inspired! and love to collect and listen music.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun Fact: Simplicity Inspired! and love to collect music.
 
 ### SoundCloud Playing 🎧
 
@@ -20,23 +20,31 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" />](https://devdocs.io/cpp/)
+[<img align="left" alt="Airflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/apacheairflow.svg" />](https://airflow.apache.org/docs/stable/)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />](https://docs.python.org/3/)
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://devdocs.io/html/)
+[<img align="left" alt="PySpark" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/apachespark.svg" />](https://spark.apache.org/docs/latest/api/python/index.html)
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://devdocs.io/css/)
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/docker.svg" />](https://docs.docker.com/engine/)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://devdocs.io/javascript/)
+[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/kubernetes.svg" />](https://kubernetes.io/docs/home/)
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://dev.mysql.com/doc/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/doc)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />](https://devdocs.io/html/)
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://docs.github.com/en)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />](https://devdocs.io/css/)
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://docs.microsoft.com/en-us/windows/terminal/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />](https://devdocs.io/javascript/)
+
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />](https://dev.mysql.com/doc/)
+
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />](https://git-scm.com/doc)
+
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />](https://docs.github.com/en)
+
+[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/powershell.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
 <br />
 <br />
