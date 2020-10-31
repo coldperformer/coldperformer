@@ -51,9 +51,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&show_icons=true&hide_border=true" />
+### GitHub Stats :zap: 
 
-</details>
+<img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&show_icons=true&hide_border=true" />
