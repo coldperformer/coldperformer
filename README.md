@@ -18,9 +18,18 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ### **Connect With Me**:
 
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/gmail.svg" />](https://www.facebook.com/profile.php?id=100036062106581)
+
+[<img align="left" alt="GMail" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/gmail.svg" />](coldperformer@gmail.com)
+
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/instagram.svg" />](https://www.instagram.com/coldperformer/)
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/linkedin.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
+
+[<img align="left" alt="Outlook" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/microsoft-outlook.svg" />](coldperformer@hotmail.com)
+
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/coldperformer)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/coldperformer/)
+
 
 <br />
 
