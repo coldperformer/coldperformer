@@ -1,16 +1,22 @@
-## Hi there 👋, I'm a Data Science Researcher!!
+## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-- 🔭 I am currently working at INSAID.
+Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
+
+- 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
+  
 - 🌱 I’m currently learning almost everything.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun Fact: Simplicity Inspired! and love to collect music.
+  
+- 👯 Looking to collaborate with other content creators.
+  
+- 🥅 **2021 Goals:** Contribute more to Open Source projects.
+  
+- ⚡ **Fun Fact:** I like to play games and go to the GYM very often.
 
-### SoundCloud Playing 🎧
+### **Listening SoundCloud**🎧
 
 [<img width="100px" src="https://media3.giphy.com/media/kKJPSx14GFUyAJ8VoH/giphy.gif" alt="Favourtie Song" width="350" />](https://soundcloud.com/weareriot/cantstop?in=weareriot/sets/remixes)
 
-### Connect with me:
+### **Connect With Me**:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/coldperformer)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
@@ -18,7 +24,7 @@
 
 <br />
 
-### Languages and Tools:
+### **Languages and Tools**:
 
 [<img align="left" alt="Airflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/apacheairflow.svg" />](https://airflow.apache.org/docs/stable/)
 
@@ -51,7 +57,6 @@
 
 ---
 
-
-### GitHub Stats :zap: 
+### **GitHub Stats** 
 
 <img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&show_icons=true&hide_border=true" />
