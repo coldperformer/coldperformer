@@ -72,10 +72,15 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 <img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=contribs,prs&show_icons=true&hide_border=true&theme=tokyonight" />
 
+<br />
+<br />
 
 ### **Profile Visits**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer)
+
+<br />
+<br />
 
 ### **Coding Stats**
 
