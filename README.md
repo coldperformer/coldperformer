@@ -18,48 +18,48 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ### **Connect With Me**:
 
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/gmail.svg" />](https://www.facebook.com/profile.php?id=100036062106581)
+[<img align="left" alt="GMail" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />](coldperformer@gmail.com)
 
-[<img align="left" alt="GMail" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/gmail.svg" />](coldperformer@gmail.com)
+[<img align="left" alt="Facebook" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />](https://www.facebook.com/profile.php?id=100036062106581)
 
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/instagram.svg" />](https://www.instagram.com/coldperformer/)
+[<img align="left" alt="Instagram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/408/408758.svg" />](https://www.instagram.com/coldperformer/)
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/linkedin.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
+[<img align="left" alt="LinkedIn" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/355/355994.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
 
-[<img align="left" alt="Outlook" width="22px" src="https://raw.githubusercontent.com/coldperformer/coldperformer/master/Social/microsoft-outlook.svg" />](coldperformer@hotmail.com)
+[<img align="left" alt="Outlook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />](coldperformer@hotmail.com)
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/coldperformer)
+[<img align="left" alt="Twitter" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/coldperformer)
 
 
 <br />
 
 ### **Languages and Tools**:
 
-[<img align="left" alt="Airflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/apacheairflow.svg" />](https://airflow.apache.org/docs/stable/)
+[<img align="left" alt="Airflow" width="26px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" />](https://airflow.apache.org/docs/stable/)
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />](https://docs.python.org/3/)
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://docs.python.org/3/)
 
-[<img align="left" alt="PySpark" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/apachespark.svg" />](https://spark.apache.org/docs/latest/api/python/index.html)
+[<img align="left" alt="PySpark" width="26px" src="https://symbols-electrical.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.svg" />](https://spark.apache.org/docs/latest/api/python/index.html)
 
-[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/docker.svg" />](https://docs.docker.com/engine/)
+[<img align="left" alt="Docker" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" />](https://docs.docker.com/engine/)
 
-[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/kubernetes.svg" />](https://kubernetes.io/docs/home/)
+[<img align="left" alt="Kubernetes" width="26px" src="https://code.benco.io/icon-collection/logos/kubernetes.svg" />](https://kubernetes.io/docs/home/)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />](https://devdocs.io/html/)
+[<img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" />](https://devdocs.io/html/)
 
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />](https://devdocs.io/css/)
+[<img align="left" alt="CSS3" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" />](https://devdocs.io/css/)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />](https://devdocs.io/javascript/)
+[<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" />](https://devdocs.io/javascript/)
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />](https://dev.mysql.com/doc/)
+[<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />](https://dev.mysql.com/doc/)
 
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/git.svg" />](https://git-scm.com/doc)
+[<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />](https://git-scm.com/doc)
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />](https://docs.github.com/en)
 
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/powershell.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
+[<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/346/346841.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
 <br />
 <br />
