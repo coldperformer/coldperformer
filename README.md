@@ -1,14 +1,21 @@
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
+<p align="center">
+    <a href="https://img.shields.io/badge/build%20type-markdown-blue"><img src="https://img.shields.io/badge/build%20type-markdown-blue" alt="build type"></a>
+    <a href="https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer"><img src="https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer" alt="visitors"></a>
+    <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/downloads/coldperformer/coldperformer/total" alt="downloads"></a>
+  <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/commit-activity/m/coldperformer/coldperformer" alt="commit activity"></a>
+</p>
+
 Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
 - 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
   
-- 🌱 I’m currently learning almost everything.
+- 🌱 Learning almost everything in Computer Science.
   
 - 👯 Looking to collaborate with other content creators.
   
-- 🥅 **2021 Goals:** Contribute more to Open Source projects.
+- 🥅 **2021 Goals:** Contribute to Open Source projects.
   
 - ⚡ **Fun Fact:** I like to play games and I go to the GYM very often.
 
@@ -70,14 +77,10 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ### **GitHub Stats** 
 
-<img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=contribs,prs&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<br />
-<br />
-
-### **Profile Visits**
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer)
+<p align="center">
+  <a href=""><img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" /></a>
+  <a href="https://github.com/coldperformer/coldperformer"><img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" /></a>
+</p>
 
 <br />
 <br />
