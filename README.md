@@ -10,7 +10,7 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
   
 - 🥅 **2021 Goals:** Contribute more to Open Source projects.
   
-- ⚡ **Fun Fact:** I like to play games and go to the GYM very often.
+- ⚡ **Fun Fact:** I like to play games and I go to the GYM very often.
 
 ### **Listening SoundCloud**🎧
 
@@ -40,6 +40,8 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://docs.python.org/3/)
 
 [<img align="left" alt="PySpark" width="26px" src="https://symbols-electrical.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.svg" />](https://spark.apache.org/docs/latest/api/python/index.html)
+
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />](https://devdocs.io/cpp/)
 
 [<img align="left" alt="Docker" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" />](https://docs.docker.com/engine/)
 
