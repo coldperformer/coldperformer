@@ -1,12 +1,5 @@
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-<p align="center">
-    <a href="https://img.shields.io/badge/build%20type-markdown-blue"><img src="https://img.shields.io/badge/build%20type-markdown-blue" alt="build type"></a>
-    <a href="https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer"><img src="https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer" alt="visitors"></a>
-    <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/downloads/coldperformer/coldperformer/total" alt="downloads"></a>
-  <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/commit-activity/m/coldperformer/coldperformer" alt="commit activity"></a>
-</p>
-
 Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
 - 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
@@ -75,6 +68,13 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ---
 
+<p align="center">
+    <a href="https://img.shields.io/badge/build%20type-markdown-blue"><img src="https://img.shields.io/badge/build%20type-markdown-blue" alt="build type"></a>
+    <a href="https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer"><img src="https://visitor-badge.glitch.me/badge?page_id=coldperformer.coldperformer" alt="visitors"></a>
+    <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/downloads/coldperformer/coldperformer/total" alt="downloads"></a>
+  <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/commit-activity/m/coldperformer/coldperformer" alt="commit activity"></a>
+</p>
+
 ### **GitHub Stats** 
 
 <p align="center">
@@ -85,10 +85,9 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 <br />
 <br />
 
+---
+
 ### **Coding Stats**
 
 <!--START_SECTION:waka-->
-```text
-Markdown   1 hr 9 mins     █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
