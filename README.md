@@ -2,7 +2,7 @@
 
 Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
-<img align="right" alt="GIF" src="/gifs/developer.gif" width="240" height="180" />
+<img align="right" alt="GIF" src="gifs/developer.gif" width="240" height="180" />
 
 - 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
   
@@ -37,33 +37,33 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ### **Languages and Tools**:
 
-[<img align="left" alt="Airflow" width="26px" src="../tools-&-languages/airflow.png" />](https://airflow.apache.org/docs/stable/)
+[<img align="left" alt="Airflow" width="26px" src="tools-&-languages/airflow.png" />](https://airflow.apache.org/docs/stable/)
 
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://docs.python.org/3/)
+[<img align="left" alt="Python" width="26px" src="tools-&-languages/python.svg" />](https://docs.python.org/3/)
 
-[<img align="left" alt="PySpark" width="26px" src="https://symbols-electrical.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.svg" />](https://spark.apache.org/docs/latest/api/python/index.html)
+[<img align="left" alt="PySpark" width="26px" src="tools-&-languages/spark.svg" />](https://spark.apache.org/docs/latest/api/python/index.html)
 
-[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />](https://devdocs.io/cpp/)
+[<img align="left" alt="C++" width="26px" src="tools-&-languages/c++.svg" />](https://devdocs.io/cpp/)
 
-[<img align="left" alt="Docker" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" />](https://docs.docker.com/engine/)
+[<img align="left" alt="Docker" width="26px" src="tools-&-languages/docker.svg" />](https://docs.docker.com/engine/)
 
-[<img align="left" alt="Kubernetes" width="26px" src="https://code.benco.io/icon-collection/logos/kubernetes.svg" />](https://kubernetes.io/docs/home/)
+[<img align="left" alt="Kubernetes" width="26px" src="tools-&-languages/kubernetes.svg" />](https://kubernetes.io/docs/home/)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
+[<img align="left" alt="Visual Studio Code" width="26px" src="tools-&-languages/visual-studio-code.svg" />](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 
-[<img align="left" alt="HTML5" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" />](https://devdocs.io/html/)
+[<img align="left" alt="HTML5" width="26px" src="tools-&-languages/html5.svg" />](https://devdocs.io/html/)
 
-[<img align="left" alt="CSS3" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" />](https://devdocs.io/css/)
+[<img align="left" alt="CSS3" width="26px" src="tools-&-languages/css3.svg" />](https://devdocs.io/css/)
 
-[<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" />](https://devdocs.io/javascript/)
+[<img align="left" alt="JavaScript" width="26px" src="tools-&-languages/javascript.svg" />](https://devdocs.io/javascript/)
 
-[<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />](https://dev.mysql.com/doc/)
+[<img align="left" alt="MySQL" width="26px" src="tools-&-languages/mysql.svg" />](https://dev.mysql.com/doc/)
 
-[<img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/files/ni/64759/png/git-icon.png" />](https://git-scm.com/doc)
+[<img align="left" alt="Git" width="26px" src="tools-&-languages/git.svg" />](https://git-scm.com/doc)
 
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/github.svg" />](https://docs.github.com/en)
+[<img align="left" alt="GitHub" width="26px" src="tools-&-languages/github.svg" />](https://docs.github.com/en)
 
-[<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/346/346841.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
+[<img align="left" alt="Terminal" width="26px" src="tools-&-languages/terminal.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
 <br />
 
