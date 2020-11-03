@@ -64,7 +64,6 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 [<img align="left" alt="Terminal" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/346/346841.svg" />](https://docs.microsoft.com/en-us/windows/terminal/)
 
 <br />
-<br />
 
 ---
 
@@ -75,17 +74,19 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
   <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/commit-activity/m/coldperformer/coldperformer" alt="commit activity"></a>
 </p>
 
-### **GitHub Stats** 
-
-<p align="center">
-  <a href=""><img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" /></a>
-  <a href="https://github.com/coldperformer/coldperformer"><img align="left" alt="Mukesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" /></a>
-</p>
-
-<br />
-<br />
+<br/>
 
 ### **Coding Stats**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<br/>
+
+### **GitHub Stats** 
+
+[<img align="left" alt="Terminal" width="26px" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" />](https://github.com/coldperformer/coldperformer)
+
+<br />
+
+[<img align="left" alt="Terminal" width="26px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" />](https://github.com/coldperformer/coldperformer)
