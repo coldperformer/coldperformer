@@ -89,4 +89,4 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 <br />
 
-[<img align="left" alt="Terminal" width="26px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" />](https://github.com/coldperformer/coldperformer)
+[<img align="left" alt="Coding Stats" width="26px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" />](https://github.com/coldperformer/coldperformer)
