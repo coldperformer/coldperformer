@@ -66,6 +66,10 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 <br />
 
 ---
+<details>
+<summary>
+  Expand to know more details...
+</summary>
 
 <p align="center">
     <a href="https://img.shields.io/badge/build%20type-markdown-blue"><img src="https://img.shields.io/badge/build%20type-markdown-blue" alt="build type"></a>
@@ -74,16 +78,16 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
   <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/commit-activity/m/coldperformer/coldperformer" alt="commit activity"></a>
 </p>
 
-### **Coding Stats**
+### **Coding Stats:**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<br/>
-
-### **GitHub Stats** 
+### **GitHub Stats:** 
 
 <p align="left">
     <a href="https://github.com/coldperformer/coldperformer"><img width="445.5px" height="153px" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" alt="build type"></a>
     <a href="https://github.com/coldperformer/coldperformer"><img height="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" alt="visitors"></a>
 </p>
+
+</details>
