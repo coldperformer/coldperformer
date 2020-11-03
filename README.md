@@ -2,7 +2,7 @@
 
 Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="240" height="180" />
+<img align="right" alt="GIF" src="/gifs/developer.gif" width="240" height="180" />
 
 - 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
   
@@ -20,24 +20,24 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ### **Connect With Me**:
 
-[<img align="left" alt="GMail" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />](coldperformer@gmail.com)
+[<img align="left" alt="GMail" width="26px" src="social/gmail.svg" />](coldperformer@gmail.com)
 
-[<img align="left" alt="Facebook" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/145/145802.svg" />](https://www.facebook.com/profile.php?id=100036062106581)
+[<img align="left" alt="Facebook" width="26px" src="social/facebook.svg" />](https://www.facebook.com/profile.php?id=100036062106581)
 
-[<img align="left" alt="Instagram" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/408/408758.svg" />](https://www.instagram.com/coldperformer/)
+[<img align="left" alt="Instagram" width="26px" src="social/instagram.svg" />](https://www.instagram.com/coldperformer/)
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/355/355994.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
+[<img align="left" alt="LinkedIn" width="26px" src="social/linkedin.svg" />](https://www.linkedin.com/in/mukesh-kumar-676bab178/)
 
-[<img align="left" alt="Outlook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" />](coldperformer@hotmail.com)
+[<img align="left" alt="Outlook" width="26px" src="social/outlook.svg" />](coldperformer@hotmail.com)
 
-[<img align="left" alt="Twitter" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/coldperformer)
+[<img align="left" alt="Twitter" width="26px" src="social/twitter.svg" />](https://twitter.com/coldperformer)
 
 
 <br />
 
 ### **Languages and Tools**:
 
-[<img align="left" alt="Airflow" width="26px" src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png?api=v2" />](https://airflow.apache.org/docs/stable/)
+[<img align="left" alt="Airflow" width="26px" src="../tools-&-languages/airflow.png" />](https://airflow.apache.org/docs/stable/)
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://docs.python.org/3/)
 
