@@ -68,7 +68,7 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 ---
 <details>
 
-<h3><summary>Further Details</summary></h3>
+<summary>Further Details</summary>
 
 </br>
 
