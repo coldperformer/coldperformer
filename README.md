@@ -16,7 +16,7 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 ### **Listening SoundCloud**🎧
 
-[<img width="100px" src="https://media3.giphy.com/media/kKJPSx14GFUyAJ8VoH/giphy.gif" alt="Favourtie Song" width="350" />](https://soundcloud.com/weareriot/cantstop?in=weareriot/sets/remixes)
+[<img width="100px" src=".\coldperformer\gifs\soundcloud.gif" alt="Favourtie Song" width="350" />](https://soundcloud.com/weareriot/cantstop?in=weareriot/sets/remixes)
 
 ### **Connect With Me**:
 
