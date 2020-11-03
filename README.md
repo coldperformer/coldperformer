@@ -74,8 +74,6 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
   <a href="https://github.com/coldperformer/coldperformer"><img src="https://img.shields.io/github/commit-activity/m/coldperformer/coldperformer" alt="commit activity"></a>
 </p>
 
-<br/>
-
 ### **Coding Stats**
 
 <!--START_SECTION:waka-->
