@@ -2,7 +2,7 @@
 
 Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="240" height="180" />
 
 - 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
   
