@@ -87,5 +87,5 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 <p align="left">
     <a href="https://github.com/coldperformer/coldperformer"><img width="445.5px" height="153px" src="https://github-readme-stats.codestackr.vercel.app/api?username=coldperformer&hide=stars&show_icons=true&hide_border=true&theme=tokyonight" alt="build type"></a>
-    <a href="https://github.com/coldperformer/coldperformer"><img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" alt="visitors"></a>
+    <a href="https://github.com/coldperformer/coldperformer"><img height="153px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldperformer&layout=compact" alt="visitors"></a>
 </p>
