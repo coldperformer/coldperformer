@@ -85,8 +85,6 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
 
 ```
 <!--END_SECTION:waka-->
