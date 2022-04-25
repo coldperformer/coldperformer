@@ -6,7 +6,7 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 
 - 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
   
-- 🌱 Learning almost everything in Computer Science.
+- 🌱 Learning almost everything in Computer and Data Science.
   
 - 👯 Looking to collaborate with other content creators.
   
