@@ -10,7 +10,7 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
   
 - 👯 Looking to collaborate with other content creators.
   
-- 🥅 **2021 Goals:** Contribute to Open Source projects.
+- 🥅 **2022 Goals:** Contribute to Open Source projects.
   
 - ⚡ **Fun Fact:** I like to play games and I go to the GYM very often.
 
