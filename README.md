@@ -86,8 +86,7 @@ Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and b
 <!--START_SECTION:waka-->
 
 ```text
-Python     5 hrs 13 mins   ████████████████████████▓   99.23 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python   4 hrs 38 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
