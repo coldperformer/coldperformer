@@ -1,16 +1,16 @@
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-Myself Mukesh, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
+Myself Mukesh, I'm a Data Scientist!! I spend most of time coding and building outstanding products.
 
 <img align="right" alt="GIF" src="gifs/developer.gif" width="240" height="180" />
 
-- 🔭 Currently working at **<a href="https://www.insaid.co/">INSAID</a>**.
+- 🔭 Currently working at **<a href="https://valenta.ai">VALENTA AI</a>**.
   
 - 🌱 Learning almost everything in Computer and Data Science.
   
 - 👯 Looking to collaborate with other content creators.
   
-- 🥅 **2022 Goals:** Contribute to Open Source projects.
+- 🥅 **2023 Goals:** Contribute to Open Source projects.
   
 - ⚡ **Fun Fact:** I like to play games and I go to the GYM very often.
 
