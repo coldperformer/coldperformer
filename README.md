@@ -86,7 +86,8 @@ Myself Mukesh, I'm a Data Scientist!! I spend most of time coding and building o
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Batchfile   9 mins          ████████████████████████░   95.58 %
+XML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
